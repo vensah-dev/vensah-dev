@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my potfolio website
-- 🌱 I’m currently learning Godot and GDScript
+- 🌱 I’m currently learning GDScript and Godot for game development
 - ⚡ Fun fact: I'm most fluent with Swift
   
 <!--
