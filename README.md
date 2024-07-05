@@ -1,8 +1,11 @@
-## Hi there 👋
+## Hello, I'm Venkatesh
 
-- 🔭 I’m currently working on my potfolio website
-- 🌱 I’m currently learning GDScript and Godot for game development
-- ⚡ Fun fact: I'm most fluent with Swift
+### Currently:
+- Working on my potfolio website
+- Learning GDScript and Godot for game development
+- Studying in Secondary School
+
+Fun fact: I'm most fluent with Swift
   
 <!--
 **vensah-dev/vensah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
