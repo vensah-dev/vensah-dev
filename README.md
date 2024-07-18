@@ -2,8 +2,8 @@
 
 ### Currently:
 - Working on my potfolio website
-- Learning GDScript and Godot for game development
-- Studying in Secondary School
+- Learning JavaScript, HTML and CSS
+- Studying in [https://www.peihwasec.moe.edu.sg/](PHSS)
 
 Fun fact: I'm most fluent with Swift
   
