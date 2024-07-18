@@ -3,7 +3,7 @@
 ### Currently:
 - Working on my potfolio website
 - Learning JavaScript, HTML and CSS
-- Studying in [PHSS](https://www.peihwasec.moe.edu.sg/)
+- Studying in Secondary 3
 
 Fun fact: I'm most fluent with Swift
   
