@@ -1,8 +1,8 @@
 ## Hello, I'm Venkatesh
 
 ### Currently:
-- Working on Attentia
-- Learning JavaScript for ReactNative
+- Working on my portfolio website
+- Learning React and Next JS
 - Studying in Secondary 3
 
 Fun fact: I'm most fluent with Swift
