@@ -2,9 +2,9 @@
 
 
 ### Currently:
-- Working on my portfolio website
-- Learning React and Next JS
-- Studying in Secondary 3
+- Working on my portfolio website and a game
+- Learning GDScript
+- Studying in Secondary 4
 
 Fun fact: I'm most fluent with Swift
   
