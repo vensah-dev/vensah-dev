@@ -3,7 +3,7 @@
 
 ### Currently:
 - Working on my portfolio website and a game
-- Learning GDScript
+- Learning GDScript and how to balance life
 - Studying in Secondary 4
 
 Fun fact: I'm most fluent with Swift
