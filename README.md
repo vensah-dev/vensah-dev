@@ -2,7 +2,7 @@
 
 
 ### Currently:
-- Working on my [SSC 2025](https://developer.apple.com/swift-student-challenge/) website and a game
+- Working on my [SSC 2025](https://developer.apple.com/swift-student-challenge/)
 - Learning JavaScriptCore for Swift
 - Studying in Secondary 4
 
