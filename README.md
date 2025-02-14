@@ -2,7 +2,7 @@
 
 
 ### Currently:
-- Working on my [SSC 2025](https://developer.apple.com/swift-student-challenge/)
+- Working on my [SSC 2025](https://developer.apple.com/swift-student-challenge/) project
 - Learning SpriteKit for Swift
 - Studying in Secondary 4
 
