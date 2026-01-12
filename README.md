@@ -2,9 +2,8 @@
 
 
 ### Currently:
-- Working on my [SSC 2025](https://developer.apple.com/swift-student-challenge/) project
-- Learning SpriteKit for Swift
-- Studying in Secondary 4
+- Hack&Roll 2026
+- Rigging up school with explosives before O Level results
 
 Fun fact: I'm most fluent with Swift
   
