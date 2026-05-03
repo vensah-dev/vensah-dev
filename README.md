@@ -2,8 +2,8 @@
 
 
 ### Currently:
-- Hack&Roll 2026
-- Rigging up school with explosives before O Level results
+- Working on Carbide Robotics
+- Rigging up school with explosives before A Level results
 
 Fun fact: I'm most fluent with Swift
   
