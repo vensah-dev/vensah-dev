@@ -3,7 +3,5 @@
 
 ### Currently:
 - Working on Carbide Robotics
-- Rigging up school with explosives before A Level results
-
-Fun fact: I'm most fluent with Swift
-  
+- Developing Y.LEAD 2026 website -> Next JS
+- 
