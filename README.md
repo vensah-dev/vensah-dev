@@ -5,4 +5,4 @@
 - Working on Carbide Robotics
 - Developing Y.LEAD 2026 website -> Next JS
 
-![](https://google.com](https://github-readme-stats.hackclub.dev/api/wakatime?username=56004&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=56004&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
