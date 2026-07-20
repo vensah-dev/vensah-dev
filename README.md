@@ -3,7 +3,7 @@
 
 ### Currently:
 - Working on Carbide Robotics
-- Developing Y.LEAD 2026 website in Next JS <br> 
+- Grinding Stardance <br> 
 #
 <br>
 
