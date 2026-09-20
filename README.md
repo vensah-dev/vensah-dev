@@ -2,7 +2,7 @@
 
 
 ### Currently:
-- learnt that old people like to touch little girls
+- brrrrr
 - Working on Carbide Robotics
 - Grinding Stardance <br> 
 #
