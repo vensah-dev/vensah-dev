@@ -2,7 +2,7 @@
 
 
 ### Currently:
-- brrrrr
+- Contemplating whether school is wasting enough of my time to dropout
 - Working on Carbide Robotics
 - Grinding Stardance <br> 
 #
